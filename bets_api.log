@@ -1,20 +1,55 @@
-2020-07-16 16:21:58,900:INFO:Placed bet on home team
-2020-07-16 19:50:28,633:INFO:Placed bet on home team 2497648
-2020-07-16 20:15:31,383:INFO:Placed bet on home team 2300993
-2020-07-16 20:23:48,087:INFO:Placed bet on away team 2455055
-2020-07-16 20:32:03,310:INFO:Placed bet on away team 2545866
-2020-07-16 21:33:19,786:INFO:lost on 2497648 !
-2020-07-16 21:49:31,430:INFO:Placed bet on home team 2471923
-2020-07-16 22:45:26,517:INFO:lost on 2471923 !
-2020-07-16 23:01:37,211:INFO:won on H 2300993
-2020-07-16 23:01:37,211:INFO:lost on 2455055 !
-2020-07-16 23:33:55,602:INFO:Placed bet on home team 2538573
-2020-07-16 23:58:12,652:INFO:won on A 2545866
-2020-07-17 09:44:40,806:INFO:Placed bet on home team Chiefs eSports Club vs Dire Wolves with id 2421012
-2020-07-17 09:44:42,359:INFO:Placed bet on away team Jin Air Green Wings vs RunAway with id 2497687
-2020-07-17 09:44:42,958:INFO:Placed bet on home team Pentanet.GG vs Gravitas with id 2429899
-2020-07-17 10:01:06,695:INFO:Placed bet on home team Rogue Warriors vs FunPlus Phoenix with id 2506031
-2020-07-17 10:01:08,138:INFO:Placed bet on away team CERBERUS Esports vs GIGABYTE Marines with id 2509280
-2020-07-17 10:09:17,932:INFO:Placed bet on away team Neon Esports vs SK Telecom T1 with id 2547703
-2020-07-17 10:58:32,280:INFO:Lost on 2421012!
-2020-07-17 11:39:27,573:INFO:Placed bet on home team Afreeca Freecs vs DAMWON Gaming with id 2428792
+2020-07-19 11:16:50,346:INFO:Placed bet on home team Galakticos vs Papara SuperMassive with id 2533854
+2020-07-19 11:45:29,731:INFO:Placed bet on home team Berjaya Dragons vs Alpha Esports with id 2463512
+2020-07-19 12:52:44,799:INFO:Placed bet on home team Dark Passage vs Istanbul Wild Cats with id 2533552
+2020-07-19 13:00:57,579:INFO:Placed bet on away team Liyab Esports vs Nova Esports with id 2463513
+2020-07-19 13:00:57,794:INFO:Placed bet on away team Percent Esports vs Team Flash with id 2511998
+2020-07-19 13:00:58,003:INFO:Placed bet on away team Galatasaray vs Besiktas with id 2522294
+2020-07-19 13:42:01,001:INFO:Lost on 2533854!
+2020-07-19 14:02:29,022:INFO:Placed bet on away team Resurgence vs Hong Kong Attitude with id 2463514
+2020-07-19 14:02:29,363:INFO:Placed bet on home team 5 Ronin vs Fenerbahce with id 2538333
+2020-07-19 14:14:43,430:INFO:Placed bet on away team Machi Esports vs Resurgence with id 2478916
+2020-07-19 14:18:55,037:INFO:Lost on 2463512!
+2020-07-19 15:04:48,480:INFO:Lost on 2533552!
+2020-07-19 15:15:53,360:INFO:Lost on 2478916!
+2020-07-19 15:35:57,722:INFO:Lost on 2522294!
+2020-07-19 15:44:02,200:INFO:Placed bet on away team OFFSET vs Boavista with id 2551057
+2020-07-19 15:44:02,569:INFO:Placed bet on home team Trap vs Reynor with id 2555442
+2020-07-19 16:12:33,823:INFO:Placed bet on away team GUNRUNNERS vs Sinners with id 2550892
+2020-07-19 16:16:42,090:INFO:Lost on 2463513!
+2020-07-19 16:28:57,106:INFO:won on H 5 Ronin vs Fenerbahce with id 2538333, betted on H, final score 4-0!
+2020-07-19 16:40:08,311:INFO:Couldnt get upcoming events
+2020-07-19 16:40:12,190:INFO:Couldnt get upcoming events
+2020-07-19 16:43:06,086:INFO:Couldnt get upcoming events
+2020-07-19 17:00:25,481:INFO:Placed bet on home team Munster Rugby Gaming.A vs Enclave Gaming with id 2541840
+2020-07-19 17:20:51,378:INFO:Lost on 2511998!
+2020-07-19 17:24:53,680:INFO:Placed bet on home team Team Sampi vs eSuba with id 2550893
+2020-07-19 17:28:57,319:INFO:Placed bet on away team Serral vs Cure with id 2555444
+2020-07-19 17:28:58,969:INFO:Placed bet on away team beastcoast vs CR4ZY with id 2554808
+2020-07-19 17:33:18,097:INFO:won on A Resurgence vs Hong Kong Attitude with id 2463514, betted on A, final score 0-1!
+2020-07-19 17:41:29,425:INFO:Placed bet on home team Team BDS vs FC Barcelona with id 2555114
+2020-07-19 17:53:45,970:INFO:Placed bet on away team Keyd Stars vs FURIA with id 2545206
+2020-07-19 18:02:02,913:INFO:Placed bet on home team demise vs Barrage Esports.A with id 2541841
+2020-07-19 18:59:31,801:INFO:Placed bet on home team KaBuM! e-Sports vs INTZ with id 2433586
+2020-07-19 19:03:42,683:INFO:won on A Keyd Stars vs FURIA with id 2545206, betted on A, final score 2-3!
+2020-07-19 19:44:41,608:INFO:Placed bet on home team London Royal Ravens vs Paris Legion with id 2555461
+2020-07-19 20:05:16,877:INFO:Placed bet on away team New England Whalers vs Levitate with id 2556482
+2020-07-19 20:05:24,002:INFO:won on A beastcoast vs CR4ZY with id 2554808, betted on A, final score 0-2!
+2020-07-19 20:09:30,367:INFO:Lost on 2433586!
+2020-07-19 20:50:38,072:INFO:Placed bet on away team Ze Pug Godz vs Kinship with id 2556485
+2020-07-19 21:02:57,913:INFO:won on H Munster Rugby Gaming.A vs Enclave Gaming with id  , betted on H, final score 1-0!
+2020-07-19 21:06:58,781:INFO:Placed bet on away team Prodigy Esports vs paiN Gaming with id 2545207
+2020-07-19 21:15:10,505:INFO:Placed bet on away team Dallas Empire vs Florida Mutineers with id 2555495
+2020-07-19 21:47:47,531:INFO:Couldnt get upcoming events
+2020-07-19 21:47:47,533:INFO:Couldnt get ended events
+2020-07-19 21:51:51,820:INFO:Lost on 2555461!
+2020-07-19 21:55:54,798:INFO:Placed bet on home team Atlanta Reign vs Florida Mayhem with id 2544489
+2020-07-19 22:04:04,589:INFO:won on H demise vs Barrage Esports.A with id 2541841, betted on H, final score 1-0!
+2020-07-19 22:16:16,963:INFO:won on A Prodigy Esports vs paiN Gaming with id 2545207, betted on A, final score 1-4!
+2020-07-19 22:41:29,026:INFO:Lost on 2433586, KaBuM! e-Sports vs INTZ, betted on H, final score 0-1!
+2020-07-19 22:46:33,151:INFO:won on A Percent Esports vs Team Flash with id 2511998, betted on A, final score 1-2!
+2020-07-19 22:52:22,131:INFO:Lost on 2555495, Dallas Empire vs Florida Mutineers, betted on A, final score 2-0!
+2020-07-19 22:55:05,877:INFO:Lost on 2555495, Dallas Empire vs Florida Mutineers, betted on A, final score 2-0!
+2020-07-19 22:55:05,877:INFO:won on A 100 Thieves vs Team Liquid with id 2394518, betted on A, final score 0-1!
+2020-07-19 22:55:05,878:INFO:won on A Prodigy Esports vs paiN Gaming with id 2545207, betted on A, final score 1-4!
+2020-07-19 22:55:05,878:INFO:Lost on 2544488, Paris Eternal vs Toronto Defiant, betted on A, final score 2-0!
+2020-07-20 07:29:11,562:INFO:Lost on 2544489, Atlanta Reign vs Florida Mayhem, betted on H, final score 1-3!
